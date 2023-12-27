@@ -1,0 +1,4 @@
+bootstrap:
+    name: "Garlium Boot WIN64"
+    version: "1.0.0"
+    bootstrap_dir: "ecloud/garlium-boot-win64.grl"
